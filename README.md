@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khunt-miral&show_icons=true&locale=en" alt="khunt-miral" /></p>
 
-//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khunt-miral&" alt="khunt-miral" /></p>
+

@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/miral-khunt-9bb55b21a" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="miral-khunt-9bb55b21a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chef_miral" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="chef_miral" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khunt_miral" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="khunt_miral" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khunt-miral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khunt-miral" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khunt-miral" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="khunt-miral" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

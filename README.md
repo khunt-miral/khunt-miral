@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miral-khunt-9bb55b21a" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon_circle.svg&psig=AOvVaw1xamXejjv6JWWgMrK0-a0A&ust=1670759056323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDe3N387vsCFQAAAAAdAAAAABAD)" alt="miral-khunt-9bb55b21a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miral-khunt-9bb55b21a" target="blank"><img align="center" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon_circle.svg&psig=AOvVaw1xamXejjv6JWWgMrK0-a0A&ust=1670759056323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDe3N387vsCFQAAAAAdAAAAABAD)" alt="miral-khunt-9bb55b21a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chef_miral" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="chef_miral" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khunt_miral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khunt_miral" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khunt-miral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khunt-miral" height="30" width="40" /></a>

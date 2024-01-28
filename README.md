@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source project**
 
-- 👨‍💻 All of my projects are available at [https://thisismiral.me/](https://thisismiral.me/)
+- 👨‍💻 All of my projects are available at [https://thisismiral.me/](https://thisismiral.tech)
 
 - 💬 Ask me about **Java , Spring, Spring boot**
 

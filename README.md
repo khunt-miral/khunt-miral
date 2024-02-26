@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thisismiral.tech/](https://thisismiral.tech)
 
-- 💬 Ask me about **Java , .NET Framework**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **workwithmiral24by5@gmail.com**
 

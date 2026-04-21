@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I think I am funny 😄**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left" style="display: flex;">
   <a href="https://linkedin.com/in/miral-khunt-9bb55b21a" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="30" width="40" />
   </a>

@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I think I am funny 😄**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/miral-khunt-9bb55b21a" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="30" width="40" />
   </a>
@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"/>
   </a>

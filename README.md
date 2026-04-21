@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/miral-khunt-9bb55b21a" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" height="30" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://www.codechef.com/users/chef_miral" target="_blank">
     <img src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" height="30" />
   </a>&nbsp;&nbsp;

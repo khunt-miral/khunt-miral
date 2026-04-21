@@ -22,38 +22,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; gap: 10px;">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="50" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-1280px-MySQL.svg.png" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oracle_wordmark.svg/220px-Oracle_wordmark.svg.png" width="60" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  </a>
+<p align="left">
+  <nobr>
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://www.docker.com/wp-content/uploads/2021/10/Moby-logo-sm.png" height="40"/>
+    </a>&nbsp;
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.java.com" target="_blank">
+      <img src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg" height="40"/>
+    </a>&nbsp;
+    <a href="https://kubernetes.io" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.linux.org/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-1280px-MySQL.svg.png" height="40"/>
+    </a>&nbsp;
+    <a href="https://www.oracle.com/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oracle_wordmark.svg/220px-Oracle_wordmark.svg.png" height="40"/>
+    </a>&nbsp;
+    <a href="https://postman.com" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
+    </a>&nbsp;
+    <a href="https://spring.io/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40"/>
+    </a>
+  </nobr>
 </p>

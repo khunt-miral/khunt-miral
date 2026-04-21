@@ -3,12 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-<p align="left">
-  <a href="https://twitter.com/your_twitter_username" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_username?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **React JS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at  

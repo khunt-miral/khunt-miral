@@ -33,9 +33,6 @@
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
     </a>
-    <a href="https://www.java.com" target="_blank">
-      <img src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg" height="40"/>
-    </a>
     <a href="https://kubernetes.io" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40"/>
     </a>
@@ -47,9 +44,6 @@
     </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-1280px-MySQL.svg.png" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oracle_wordmark.svg/220px-Oracle_wordmark.svg.png" height="40"/>
     </a>
     <a href="https://postman.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
